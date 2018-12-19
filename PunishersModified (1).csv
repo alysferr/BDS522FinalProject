@@ -1,0 +1,112 @@
+﻿ResponseId,Punisher ID,Treatment,Punishment 1,Punishment 2,Punishment 3,Punishment 4,Actual Roll 1,Report 1,Actual Roll 2 (Clone),Report 2 Roll (Clone),Actual Roll 3,Report 3,Actual Roll 4 (Clone),Reported Roll 4 (Clone),Comp 1,Comp 2,Duration (in seconds),Do you think it is wrong for dice rollers to misreport their rolls?,Do you think dice rollers who misreported their rolls harmed other dice roller's chances of winning?,Gender,Age,Email,Decision 1 lie,Decision 3 lie,2 Lies,3 Lies,4 Lies,Lie 1 Magnitude,Lie 3 Magnitude,Punish2&4,Total Lie Magnitude,Total Punish magnitude,% Magnitude of Lies Punished,% lies punished
+R_3L52j9jA4KUricv,1,Control,0,10,0,4,9,9,10,20,9,9,11,15,9,15,168,Yes,Yes,Male,19,Ewl6@pitt.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_3NvT4rdVQWHTIVK,3,Control,0,10,0,4,14,14,10,20,14,14,11,15,9,15,113,Yes,No,Female,N/A,Elishevablas@gmail.com,0,0,1,0,0,0,0,14,14,14,1,1
+R_1GJGl2P3QwhO3Cg,5,Control,0,10,0,0,7,7,10,20,7,7,11,15,9,15,190,No,No,Female,N/A,janehen@sas.upenn.edu,0,0,1,0,0,0,0,10,14,10,0.714285714,0.5
+R_cuPFdyi41zsI4tb,6,Control,0,10,0,4,13,13,10,20,13,13,11,15,9,15,89,Yes,Yes,Male,N/A,dylanmos@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_3PMPBrxja3QhUR8,8,Control,0,10,0,4,15,15,10,20,15,15,11,15,9,15,308,Yes,No,Female,18,vanle@wharton.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_1jZCoPnhpnj845W,9,Control,0,8,0,3,12,12,10,20,12,12,11,15,9,15,96,Yes,Yes,Female,18,Lilianch@wharton.upenn.edu,0,0,1,0,0,0,0,11,14,11,0.785714286,1
+R_Auj5MICw19O0srD,9,Control,0,10,0,4,12,12,10,20,12,12,11,15,9,15,1402,Yes,Yes,Female,22,Lisy@gse.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_8JmO1zRbdcDVqW5,12,Control,0,10,0,4,14,14,10,20,14,14,11,15,5,15,167,Yes,No,Female,N/A,aminatb@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_eWXIZ2mxdWmoBDX,14,Control,0,10,0,4,15,15,10,20,15,15,11,15,9,15,116,Yes,No,Female,N/A,abrossfield@gmail.com,0,0,1,0,0,0,0,14,14,14,1,1
+R_DiTNpUCK6zIyfGF,15,Control,0,0,0,0,11,11,10,20,11,11,11,15,9,15,112,No,No,Female,N/A,txie2@sas.upenn.edu,0,0,1,0,0,0,0,0,14,0,0,0
+R_25KHQNIUfNGqagO,17,Control,0,11,0,10,9,9,10,20,9,9,11,15,9,15,306,Yes,Yes,Female,20,Meglloyd@sad.upenn.edu,0,0,1,0,0,0,0,21,14,21,1.5,1
+R_Dwtapq6puJoW74Z,18,Control,0,20,0,15,8,8,10,20,8,8,11,15,9,15,111,Yes,Yes,Male,18,jhuang22@sas.upenn.edu,0,0,1,0,0,0,0,35,14,35,2.5,1
+R_3iKcIzYb5rHYX8a,19,Control,0,10,0,4,14,14,10,20,14,14,11,15,9,15,322,Yes,No,Male,35,tnoah@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_22W9kjmxHpN7GYU,20,Control,0,0,0,0,20,20,10,20,20,20,11,15,9,15,189,Yes,Yes,Male,25,Spnc.alx@gmail.ru,0,0,1,0,0,0,0,0,14,0,0,0
+R_2SqXak9LojVnXnb,21,Control,6,10,6,11,6,20,10,20,6,20,11,15,9,15,144,Yes,No,Female,N/A,Levano@sas.upenn.edu,1,1,0,0,1,14,14,21,42,33,0.785714286,1
+R_1Fh1jbA8cDn8juJ,21,Control,20,20,20,10,6,20,10,20,6,20,11,15,0,15,173,Yes,Yes,Male,22,hallal@sas.upenn.edu,1,1,0,0,1,14,14,30,42,70,1.666666667,1
+R_yw4nSu5KiXQzTtT,22,Control,0,20,0,15,3,3,10,20,3,3,11,15,0,15,106,Yes,Yes,Female,N/A,reddysar@seas.upenn.edu,0,0,1,0,0,0,0,35,14,35,2.5,1
+R_2Y4WUmeEFbqRMMo,23,Control,0,20,0,15,7,7,10,20,7,7,11,15,9,15,133,Yes,Yes,Female,18,Caylamcelwee@gmail.com,0,0,1,0,0,0,0,35,14,35,2.5,1
+R_OHfbhXjnL3rPnxf,24,Control,0,10,0,4,11,11,10,20,11,11,11,15,9,15,204,Yes,Yes,Female,N/A,Anyared@seas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_3sz5Ncv8GZXERuh,25,Control,0,10,0,4,6,6,10,20,6,6,11,15,9,15,136,Yes,Yes,Female,24,Therese.davis465@gmail.com,0,0,1,0,0,0,0,14,14,14,1,1
+R_11jYwamwEk8F0ia,27,Control,3,2,3,1,11,20,10,20,11,20,11,15,9,15,163,Yes,Yes,Female,22,yucongl@sas.upenn.edu,1,1,0,0,1,9,9,3,32,9,0.28125,1
+R_b2elS6Mm8UPcRA5,28,Control,13,10,13,4,7,20,10,20,7,20,11,15,9,15,360,Yes,Yes,Female,18,seosorio@sas.upenn.edu,1,1,0,0,1,13,13,14,40,40,1,1
+R_2tD8SR2qbM7e1BO,28,Control,13,10,13,4,7,20,10,20,7,20,11,15,9,15,190,Yes,Yes,Female,21,Kianacomizio@gmail.com,1,1,0,0,1,13,13,14,40,40,1,1
+R_1FeVaujNwfdfl4J,30,Control,0,10,0,4,12,12,10,20,12,12,11,15,9,15,313,Yes,Yes,Female,18,emanford@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_1NrLcGk1bywRZlM,32,Empirical,0,10,6,4,12,12,10,20,12,18,11,15,9,15,195,Yes,Yes,Female,18,jenahn@sas.upenn.edu,0,1,0,1,0,0,6,14,20,20,1,1
+R_9KWZkjlJfFORhiF,32,Empirical,0,10,12,11,12,12,10,20,12,18,11,15,9,15,333,Yes,Yes,Female,28,hsinlin@gse.upenn.edu,0,1,0,1,0,0,6,21,20,33,1.65,1
+R_3McITkoBUoHUEi5,33,Empirical,0,10,0,4,9,9,10,20,9,9,11,15,9,15,196,Yes,Yes,Female,N/A,caitmcd@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_1FsTM5RFsgWZZgP,34,Empirical,0,10,0,4,2,2,10,20,2,2,11,15,9,15,232,Yes,No,Female,18,Laurlee@seas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_2eaGLPUYHHWCe6K,35,Empirical,0,20,0,15,19,19,10,20,19,19,11,15,9,15,326,Yes,Yes,Female,N/A,jlmoore140@gmail.com,0,0,1,0,0,0,0,35,14,35,2.5,1
+R_1ojVLla7LKZshe6,35,Empirical,0,10,0,4,19,19,10,20,19,19,11,15,0,15,273,Yes,No,Female,28,Yungchu@wharton.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_1pRopj2eTHx5Kqc,36,Empirical,10,15,10,15,5,20,10,20,5,20,11,15,0,15,97,Yes,No,Female,20,mkcchung@sas.upenn.edu,1,1,0,0,1,15,15,30,44,50,1.136363636,1
+R_3itoUBInMsZ6YX2,38,Empirical,8,10,8,4,12,20,10,20,12,20,11,15,9,15,131,Yes,Yes,Male,22,pandrad@seas.upenn.edu,1,1,0,0,1,8,8,14,30,30,1,1
+R_1eqKwhF4h2OA7ll,39,Empirical,12,15,12,9,5,15,10,20,5,15,11,15,9,15,183,Yes,No,Male,N/A,Gavd@sas.upenn.edu,1,1,0,0,1,10,10,24,34,48,1.411764706,1
+R_0TcK4kGBdgqpLBn,40,Empirical,0,10,0,4,11,11,10,20,11,11,11,15,9,15,279,No,No,Male,N/A,aeringis@seas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_b3DHMMtvrtVWzmx,41,Empirical,6,10,6,5,6,10,10,20,6,10,11,15,9,15,258,Yes,Yes,Male,19,rosarior@sas.upenn.edu,1,1,0,0,1,4,4,15,22,27,1.227272727,1
+R_Uox3dCyHHcmEo4F,43,Empirical,0,10,1,4,19,19,10,20,19,20,11,15,9,15,154498,Yes,No,N/A,N/A,Danos@sas.upenn.edu,0,1,0,1,0,0,1,14,15,15,1,1
+R_25GycBxXupzp4nQ,44,Empirical,0,10,0,4,3,3,10,20,3,3,11,15,5,15,307,No,Yes,Female,18,Elhanbly@seas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_2SGhFSLudMYhjq6,45,Empirical,7,10,7,4,13,20,10,20,13,20,11,15,9,15,268,Yes,Yes,Female,20,saibandi@sas.upenn.edu,1,1,0,0,1,7,7,14,28,28,1,1
+R_xDEzBOwxno7Y5uV,46,Empirical,0,10,0,4,17,17,10,20,17,17,11,15,9,15,166,Yes,Yes,Male,N/A,Apadil@seas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_3nB0uj2XVXiMA0X,47,Empirical,0,20,0,15,15,15,10,20,15,15,11,15,9,15,177,Yes,Yes,Male,22,stevenfa@sas.upenn.edu,0,0,1,0,0,0,0,35,14,35,2.5,1
+R_3kdEZgor8ifhBxd,48,Empirical,0,10,0,4,3,3,10,20,3,3,11,15,9,5,220,Yes,Yes,Female,21,jswangnyc@gmail.com,0,0,1,0,0,0,0,14,14,14,1,1
+R_1mhnwLQjEVj93T4,49,Empirical,0,0,0,0,3,3,10,20,3,3,11,15,9,15,244,No,Yes,Male,N/A,steven.ryoo@gmail.com,0,0,1,0,0,0,0,0,14,0,0,0
+R_3EmckIp45UWwHQI,50,Empirical,0,10,0,4,10,10,10,20,10,10,11,15,9,15,256,Yes,No,Male,N/A,Lyonser@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_0B8UuZM0pJZQmhr,50,Empirical,0,10,0,4,10,10,10,20,10,10,11,15,9,15,147,Yes,No,Female,24,sunoge@gse.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_1pGn6NH2OIEmGtA,53,Empirical,10,5,0,3,6,20,10,20,6,6,11,15,9,15,185,Yes,Yes,Female,27,Emeckardt@gmail.com,1,0,0,1,0,14,0,8,28,18,0.642857143,1
+R_2YV3qg2gaqxPr36,54,Empirical,7,10,0,4,13,20,10,20,13,13,11,15,9,15,149,Yes,Yes,Male,21,cyjpres@sas.upenn.edu,1,0,0,1,0,7,0,14,21,21,1,1
+R_3MsTneJzGePooSr,55,Empirical,0,0,0,0,1,1,10,20,1,1,11,15,9,15,180,Yes,Yes,Male,21,Dfutoran@gmail.com,0,0,1,0,0,0,0,0,14,0,0,0
+R_PFJ3v41ZRmGIoA9,56,Empirical,9,10,0,4,1,10,10,20,1,1,11,15,9,15,115,Yes,No,Male,N/A,gortega@sas.upenn.edu,1,0,0,1,0,9,0,14,23,23,1,1
+R_3qNCSjSfcscUu0O,57,Empirical,0,20,0,15,5,5,10,20,5,5,11,15,9,15,209,Yes,Yes,Male,N/A,Schwarz7@sas.upenn.edu,0,0,1,0,0,0,0,35,14,35,2.5,1
+R_uybvu8sv2PHxIe5,58,Empirical,14,10,14,4,6,20,10,20,6,20,11,15,9,15,285,Yes,Yes,Male,22,tamezj@sas.upenn.edu,1,1,0,0,1,14,14,14,42,42,1,1
+R_1gGAafO2wRUfPOx,58,Empirical,6,10,6,11,6,20,10,20,6,20,11,15,0,15,179,Yes,No,Male,43,Yenlinyin@hotmail.com,1,1,0,0,1,14,14,21,42,33,0.785714286,1
+R_DwR28WqqtsM9KG5,59,Empirical,0,10,0,4,20,20,10,20,20,20,11,15,9,15,527,No,Yes,Male,21,minhtut@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_ZlDuy6sZIrHm8pj,60,Empirical,0,10,0,4,18,18,10,20,18,18,11,15,5,15,181,Yes,No,Female,21,royrenny@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_2ceLui1wIfVaCLe,61,Empirical,0,10,0,11,10,10,10,20,10,10,11,15,9,15,136,Yes,Yes,Female,N/A,N/A,0,0,1,0,0,0,0,21,14,21,1.5,1
+R_1NyPX1FQccDLsG2,63,Social,0,10,0,4,6,6,10,20,6,6,11,15,9,15,877,No,Yes,Male,N/A,Jtpeterson219@gmail.com,0,0,1,0,0,0,0,14,14,14,1,1
+R_7TIrNq0zKSB3nvb,64,Social,0,10,0,4,13,13,10,20,13,13,11,15,9,15,165,Yes,No,Female,32,Nicole.sugerman@gmail.com,0,0,1,0,0,0,0,14,14,14,1,1
+R_1geEv5IOXALx1FJ,64,Social,0,10,0,4,13,13,10,20,13,13,11,15,9,15,265,Yes,Yes,Female,23,lovesea075@gmail.com,0,0,1,0,0,0,0,14,14,14,1,1
+R_2VaRw7ESXDJmzGI,65,Social,0,10,0,4,2,2,10,20,2,2,11,15,0,15,128,Yes,Yes,Female,N/A,hr835@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_3pnJgQmmzjoCd4x,66,Social,0,10,0,4,2,2,10,20,2,2,11,15,9,15,321,Yes,Yes,Male,19,Afreed8@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_8ADGRUHpHZL5UJP,67,Social,8,10,0,4,12,20,10,20,12,12,11,15,5,15,191,Yes,Yes,Female,19,torresky@wharton.upenn.edu,1,0,0,1,0,8,0,14,22,22,1,1
+R_215GBI1ABKmnO5p,71,Social,10,10,10,4,10,20,10,20,10,20,11,15,9,15,93,Yes,Yes,Male,N/A,sidtumu@sas.upenn.edu,1,1,0,0,1,10,10,14,34,34,1,1
+R_1eE145sxNPqlIuc,72,Social,5,5,3,3,11,20,10,20,11,15,11,15,9,15,171,No,Yes,Female,23,Myrnad@sas.upenn.edu,1,1,0,0,1,9,4,8,27,16,0.592592593,1
+R_3lQda6x0S6epukn,75,Social,0,10,0,4,4,4,10,20,4,4,11,15,9,15,190,Yes,Yes,Male,N/A,Jehbyb@comcast.net,0,0,1,0,0,0,0,14,14,14,1,1
+R_r2OE41DQxQvligN,76,Social,0,10,0,4,9,9,10,20,9,9,11,15,9,15,136,Yes,Yes,Female,N/A,Pnavrot@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_1Heqc702BFkkTz8,77,Social,0,20,0,15,8,8,10,20,8,8,11,15,9,15,473,Yes,Yes,Male,N/A,Kaldas@sas.upenn.edu,0,0,1,0,0,0,0,35,14,35,2.5,1
+R_1I4XMNSaWw1CNOg,78,Social,0,10,0,4,12,12,10,20,12,12,11,15,9,15,193,Yes,Yes,Male,22,caizhe@seas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_24MpRcQ26nWHq1J,79,Social,10,5,13,0,1,15,10,20,1,15,11,15,9,15,463,Yes,Yes,Female,18,Maheleta@seas.upenn.edu,1,1,0,0,1,14,14,5,42,28,0.666666667,0.75
+R_3pg7p1JhM9aMKSR,79,Social,14,10,14,4,1,15,10,20,1,15,11,15,9,15,375,Yes,Yes,Male,24,sohamp@seas.upenn.edu,1,1,0,0,1,14,14,14,42,42,1,1
+R_DAIh4uFaHEwwrKh,80,Social,0,0,0,0,2,2,10,20,2,2,11,15,9,15,258,No,Yes,Male,22,808trent@gmail.com,0,0,1,0,0,0,0,0,14,0,0,0
+R_Q6ORhaNeP4S6bYZ,81,Social,14,20,14,15,10,14,10,20,10,14,11,15,9,15,240,Yes,Yes,Male,39,jesseham@sas.upenn.edu,1,1,0,0,1,4,4,35,22,63,2.863636364,1
+R_3iJVCB3heZvVKzq,82,Social,18,20,18,15,14,18,10,20,14,18,11,15,0,15,268,Yes,No,Male,N/A,N/A,1,1,0,0,1,4,4,35,22,71,3.227272727,1
+R_WkVZm550tsZOftv,83,Social,0,10,0,4,10,10,10,20,10,10,11,15,9,15,117,Yes,Yes,Male,N/A,fernanch@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_qKjwWtsH5WOjGYF,84,Social,0,10,0,0,1,1,10,20,1,1,11,15,9,15,122,Yes,Yes,N/A,N/A,N/A,0,0,1,0,0,0,0,10,14,10,0.714285714,0.5
+R_OJu1yekzcOgA6pr,85,Social,10,20,10,15,1,10,10,20,1,10,11,15,0,15,261,Yes,Yes,Female,20,Gmascio@sas.upenn.edu,1,1,0,0,1,9,9,35,32,55,1.71875,1
+R_2sZ8a5ysPFkmvTo,86,Social,0,10,0,4,19,19,10,20,19,19,11,15,9,15,144,Yes,No,Female,18,Pweis@wharton.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_b2YMCfx5SfCA4Vz,87,Social,0,10,0,4,11,11,10,20,11,11,11,15,9,15,182,Yes,Yes,Female,19,nanisace@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_2gC4reIUhylf5XH,88,Social,0,20,14,15,10,10,10,20,10,14,11,15,0,15,761,Yes,Yes,Male,29,Brame@sas.upenn.edu,0,1,0,1,0,0,4,35,18,49,2.722222222,1
+R_1qX2sNFzGIMwgIO,89,Social,0,10,0,4,1,1,10,20,1,1,11,15,9,15,475,Yes,Yes,Female,22,joycet@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_R8iZUaxZo9l2HcJ,90,Social,15,10,15,4,5,20,10,20,5,20,11,15,9,15,118,Yes,Yes,Female,N/A,Dasij@sas.upenn.edu,1,1,0,0,1,15,15,14,44,44,1,1
+R_CfdB8wODE1hVBlf,91,Social,0,10,0,4,17,17,10,20,17,17,11,15,9,15,98,Yes,Yes,Female,20,esands@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_u3NMP8slaTqWkxz,78,New Control,0,0,0,0,12,12,10,20,12,12,11,15,9,15,243,Yes,Yes,Female,20,cruncie@sas.upenn.edu,0,0,1,0,0,0,0,0,14,0,0,0
+R_3M0diFjRtokuMMW,85,New Control,9,10,9,4,1,10,10,20,1,10,11,15,9,15,359,Yes,Yes,Female,20,romane.audibert@laposte.net,1,1,0,0,1,9,9,14,32,32,1,1
+R_33atPok7cY3vXHR,64,New Control,0,10,0,4,13,13,10,20,13,13,11,15,9,15,399,Yes,Yes,Male,21,camille.chauvey@gmail.com,0,0,1,0,0,0,0,14,14,14,1,1
+R_2f8TxLDOUjF6fpe,77,New Control,0,10,0,4,8,8,10,20,8,8,11,15,9,15,177,Yes,Yes,Male,19,N/A,0,0,1,0,0,0,0,14,14,14,1,1
+R_12MhkMuD7omcbwb,89,New Control,0,20,0,11,1,1,10,20,1,1,11,15,0,15,262,Yes,Yes,Male,18,N/A,0,0,1,0,0,0,0,31,14,31,2.214285714,1
+R_3nUjqDecFTkL87A,66,New Control,0,15,0,6,2,2,10,20,2,2,11,15,9,15,203,Yes,No,Male,21,N/A,0,0,1,0,0,0,0,21,14,21,1.5,1
+R_8AoQNGSAI8uALIZ,58,New Control,20,20,20,15,6,20,10,20,6,20,11,15,0,15,180,Yes,No,Female,18,Amysun21@wharton.upenn.edu,1,1,0,0,1,14,14,35,42,75,1.785714286,1
+R_3DknXS04eEwK1vR,80,New Control,0,20,0,10,2,2,10,20,2,2,11,15,9,15,484,Yes,No,Male,19,khussein@seas.upenn.edu,0,0,1,0,0,0,0,30,14,30,2.142857143,1
+R_3I5KUhP55mBW25T,32,New Control,0,5,0,3,12,12,10,20,12,18,11,15,9,15,140,Yes,Yes,Male,19,N/A,0,1,0,1,0,0,6,8,20,8,0.4,0.666666667
+R_3EouiOo0AG9bb4Y,56,New Control,7,8,0,3,1,10,10,20,1,1,11,15,9,15,240,No,No,Male,22,roger_jinhua96@hotmail.com,1,0,0,1,0,9,0,11,23,18,0.782608696,1
+R_1EjjVNZ0Eq4e1Ck,33,New Control,0,10,0,4,9,9,10,20,9,9,11,15,9,15,133,Yes,Yes,Male,20,bondgav@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_DPpvkqhvzxxyiNr,88,New Control,0,0,0,0,10,10,10,20,10,14,11,15,9,15,152,No,No,Male,20,ajmain@wharton.upenn.edu,0,1,0,1,0,0,4,0,18,0,0,0
+R_1nSWwztD06Io0Pc,45,New Control,0,0,0,0,13,20,10,20,13,20,11,15,9,15,191,Yes,No,Female,20,lgilak@sas.upenn.edu,1,1,0,0,1,7,7,0,28,0,0,0
+R_enyVjTEPSTEEhvX,72,New Control,5,10,2,2,11,20,10,20,11,15,11,15,9,15,770,Yes,No,Female,20,jpalermo@sas.upenn.edu,1,1,0,0,1,9,4,12,27,19,0.703703704,1
+R_2VekCcxc4sWuyeY,76,New Control,0,15,0,9,9,9,10,20,9,9,11,15,9,15,187,Yes,Yes,Female,19,ktc@sas.upenn.edu,0,0,1,0,0,0,0,24,14,24,1.714285714,1
+R_3hDYn3FScjB6mfX,63,New Control,0,15,0,8,6,6,10,20,6,6,11,15,9,15,252,Yes,Yes,Male,18,jswong@seas.upenn.edu,0,0,1,0,0,0,0,23,14,23,1.642857143,1
+R_2QxMNOT3DsBO6hK,39,New Control,10,10,10,4,5,15,10,20,5,15,11,15,9,15,306,Yes,Yes,Male,21,Akalvar@sas.upenn.edu,1,1,0,0,1,10,10,14,34,34,1,1
+R_0TfzEFEmW2Psi6l,86,New Control,0,10,0,4,19,19,10,20,19,19,11,15,9,15,314,Yes,Yes,Female,23,caritz@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_cx0LhFUnsldFxqF,53,New Control,14,10,0,4,6,20,10,20,6,6,11,15,9,15,248,Yes,No,Female,24,setarehs@sas.upenn.edu,1,0,0,1,0,14,0,14,28,28,1,1
+R_3GoL5PWiNKU5KxB,50,New Control,0,10,0,4,10,10,10,20,10,10,11,15,9,15,166,Yes,No,Female,20,Zkassell@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_1QEDoLRhRP1HvPE,48,New Control,0,10,0,4,3,3,10,20,3,3,11,15,9,15,170,Yes,No,Female,N/A,vaxline@sas.upenn.edu,0,0,1,0,0,0,0,14,14,14,1,1
+R_3qppI3rvN6WrEFb,41,New Control,2,4,5,6,6,10,10,20,6,10,11,15,0,11,122,Yes,Yes,Male,20,N/A,1,1,0,0,1,4,4,10,22,17,0.772727273,1
+R_3JFBANKek7e19O7,70,New Control,0,0,0,0,14,14,10,20,14,14,11,15,9,15,142,No,No,Male,18,dgreis@wharton.upenn.edu,0,0,1,0,0,0,0,0,14,0,0,0
+R_6FgUmfd8vH3HfRn,36,New Control,10,5,10,4,5,20,10,20,5,20,11,15,5,11,382,Yes,Yes,Male,18,ehasan@sas.upenn.edu,1,1,0,0,1,15,15,9,44,29,0.659090909,1
+,,,,,,,,,,,,,,,,,,,,,,,,N,2 Lies,3 Lies,4 Lies,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,Control,24,79%,0%,21%,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,Empirical,30,57%,20%,23%,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,Social,26,62%,8%,31%,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,New Control,24,54%,17%,29%,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
